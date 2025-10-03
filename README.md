@@ -69,7 +69,7 @@ The app is built as a **full-stack web application**:
 1. Clone the repository:
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/Likhith685/Personal-Expense-Tracker.git
 cd backend
 ```
 2.install dependencies
