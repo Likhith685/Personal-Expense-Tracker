@@ -1,7 +1,7 @@
 // client/src/services/api.js
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/expenses';
+const API_URL = 'https://personal-expense-tracker-murex.vercel.app/api/expenses';
 
 export const getExpenses = async (filters = {}) => {
   const params = {};
